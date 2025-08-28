@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import StandardScaler
 
  
-housing_data = pd.read_csv('given_dataset.csv')   
+housing_data = pd.read_csv('chennaihousingsale.csv')   
 
  
 print(housing_data.head())
